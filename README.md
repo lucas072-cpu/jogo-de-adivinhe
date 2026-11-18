@@ -1,7 +1,7 @@
 # Adivinhe
 
 <p align="center">
-  <img src="./src/assets/preview.jpg" alt="Preview do jogo Adivinhe" />
+  <img src="./adivinhe/src/assets/preview.jpg" alt="Preview do jogo Adivinhe" />
 </p>
 
 > [!TIP]
