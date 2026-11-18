@@ -5,7 +5,6 @@
 </p>
 
 > [!TIP]
-> [Acessar o site](https://SEU-LINK-AQUI)
 
 Jogo de adivinhação em que o jogador precisa descobrir uma palavra relacionada a tecnologia. Para cada rodada, uma dica é exibida na tela e o usuário deve informar uma letra por vez até completar a palavra ou esgotar as tentativas.
 
